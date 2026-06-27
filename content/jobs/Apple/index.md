@@ -1,13 +1,15 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2026-05-01'
+title: 'Network Engineer'
+company: 'BAZ INT''L INDUSTRY CO'
+location: 'Jeddah, Saudi Arabia'
+range: 'May 2026 - Present'
+url: 'https://www.linkedin.com/company/baz-intl-industry-co/'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Manage IT infrastructure across three branches (Jeddah HQ, Riyadh, Dammam) connected via FortiGate IPSec VPN tunnels
+- Administer Active Directory, DNS/DHCP, network services, and branch servers for daily IT operations
+- Troubleshoot FortiGate VPN tunnel issues, perform network diagnostics, and maintain high-availability failover configurations
+- Provide technical escalation support across branches and document resolutions for recurring issues
+- Supporting the company's migration to Microsoft Dynamics over a multi-year rollout
+

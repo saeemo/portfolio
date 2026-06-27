@@ -1,0 +1,12 @@
+---
+date: '2025-06-01'
+title: 'Microsoft AZ-500'
+issuer: 'Microsoft'
+badge: 'Azure Security Engineer Associate'
+color: '#0078d4'
+icon: 'azure'
+year: '2025'
+url: 'https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/'
+---
+
+Demonstrates expertise in implementing security controls and threat protection, managing identity and access, and protecting data, applications, and networks in cloud and hybrid environments using Microsoft Azure.

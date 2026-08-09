@@ -1,4 +1,4 @@
-# RetailPro — Internal Information Security Audit
+# RetailPro  Internal Information Security Audit
 
 ## Overview
 A simulated internal audit for **RetailPro**, a fictional retail organization.

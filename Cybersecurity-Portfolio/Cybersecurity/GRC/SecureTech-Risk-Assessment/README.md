@@ -1,7 +1,7 @@
-# SecureTech — Enterprise Risk Assessment
+# SecureTech Enterprise Risk Assessment
 
 ## Overview
-A simulated enterprise cybersecurity risk assessment for **SecureTech**, a fictional mid-sized technology company.
+A simulated enterprise cybersecurity risk assessment for **SecureTech**, a fictional mid sized technology company.
 
 ## Objectives
 - Identify important information and technology assets.
@@ -11,9 +11,9 @@ A simulated enterprise cybersecurity risk assessment for **SecureTech**, a ficti
 - Estimate residual risk after treatment.
 
 ## Deliverables
-- `Risk-Assessment.xlsx` — risk assessment, asset inventory, and methodology.
-- `docs/Company-Scenario.md` — fictional company context.
-- `docs/Risk-Methodology.md` — scoring and treatment method.
+- `Risk-Assessment.xlsx`: risk assessment, asset inventory, and methodology.
+- `docs/Company-Scenario.md`: fictional company context.
+- `docs/Risk-Methodology.md`: scoring and treatment method.
 
 ## Skills Demonstrated
 Risk identification, risk analysis, risk treatment, asset classification, residual risk evaluation, ownership, and GRC documentation.

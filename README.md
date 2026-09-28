@@ -1,6 +1,6 @@
 # Saeed Alzahrani | Cybersecurity Portfolio
 
-IT Security Specialist based in Jeddah, Saudi Arabia, with a background in GRC, cybersecurity, and IT security support.
+A Cybersecurity enthusiast based in Jeddah, Saudi Arabia, with a background in GRC, cybersecurity, and IT security support.
 
 This repository collects hands-on technical labs and simulated GRC engagements that show how I approach security work in practice: assessing risk, building compliance documentation, running audits, and testing web applications.
 
